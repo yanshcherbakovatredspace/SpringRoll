@@ -1510,6 +1510,8 @@
 			}
 			SoundJS.removeSound(list[i]);
 		}
+
+		SoundJS.removeAllSounds();
 	};
 
 	/**
